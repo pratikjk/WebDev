@@ -1,0 +1,47 @@
+
+body {
+	color:black;
+	font-family:"Courier New", "Lucida Console",monospace;
+}
+
+table,th, td{
+	border:1px solid black;
+}
+
+.main {
+      width:100%;
+    }
+.left {
+      width:25%;
+      float:left;
+    }
+.right {
+      width:75%;
+      float:right;
+    }
+	
+.experience_container h3 {
+	
+	font-size:12px
+}
+
+.experience_container img{
+	height:50px;
+	width:50%;
+	padding:10px;
+}
+.experience_container ul
+{
+    list-style-type: none;
+	padding:0; 
+	margin:0
+}
+.experience_container{
+	display: table
+}
+.company{
+	display: table-row;
+	height: 100%;
+	margin-bottom:130px;
+	
+}
